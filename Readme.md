@@ -1,3 +1,7 @@
-# Rust language
+<div align="center">
 
-## This repository contains the rust language codes and projects
+# Rust 
+
+</div>
+
+## This repository contains the projects I create in Rust.
